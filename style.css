@@ -44,3 +44,11 @@ body {
     box-shadow: 0.5rem 1rem 3rem hsl(0, 0, 0,0.3);
 
 }
+.si-page {
+    background: url('https://64.media.tumblr.com/e9e5952e2261cb6e04e59e530ec696d0/83fca5b53910cd85-cf/s1280x1920/3db25026cf1a9b27aad2715bde81c56a2af5f3c8.gifv') no-repeat center center fixed;
+    background-size: cover;
+}
+.si-page h1 {
+    color: white;
+    text-shadow: 3px 3px 5px pink;
+}
